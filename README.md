@@ -1,5 +1,5 @@
 
-Project Live Link: [Smart Home](https://github.com/facebook/create-react-app).
+Project Live Link: [Smart Home](https://smart-insaid.netlify.app).
 
 # Can you describe the process you followed to design and develop the website for the
 fictional small business?
