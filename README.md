@@ -1,70 +1,21 @@
-# Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Project Live Link: [Smart Home](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+# Can you describe the process you followed to design and develop the website for the
+fictional small business?
+=> First of all I did google search to see some examples websites design for fictional design, I did not copy any design, I was just trying to see minimum how many section do I need and what will be the content of those sections.
 
-In the project directory, you can run:
+# What programming languages and technologies did you use to build the website?
+=> I have used javascript library ReactJs as and for designing I have used CSS framework Tailwind CSS, and component DaisyUI. I have also used, React Icon, React Router DOM, React Hot Toast, Lottie files, and EmailJs for sending email to Admin.
 
-### `npm start`
+# How did you ensure that the website was responsive and mobile-friendly?
+=> To check responsiveness I have used google chrome Toggle Device Toolbar.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+# Did you face any challenges during the development process, and if so, how did you
+address them?
+=> As you can see in my resume I have built all ready some projects, This project was easier than that, that's why I didn't face any major problem.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+# Can you provide examples of how you used responsive design techniques to make the
+website look and function correctly on different devices and screen sizes?
+=> As you can see, I have mentioned that I have used Tailwind CSS, It's making developers works easy to build a responsiveness website.
 
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
